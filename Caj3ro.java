@@ -6,7 +6,7 @@ package com.mycompany.caj3ro;
 import java.util.Scanner;
 /**
  *
- * @author holak
+ * @author kahm07
  */
 public class Caj3ro {
 
